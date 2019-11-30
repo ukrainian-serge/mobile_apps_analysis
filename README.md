@@ -1,8 +1,3 @@
-mobile_apps_analysis
-Profitable apps and app genre recommendations using Python and packages
-
----
-
 # Profitable App Analysis
 
 `./profitableApps.ipynb` : NO pandas. All old school data wrangling using python to build functions for work.
@@ -15,14 +10,28 @@ Primary Focus will be on free/ad-revenue apps. Python3+ with csv module will be 
 
 
 
+---
+
 #### Data sources:
 - Android Kaggle data-set of approximately ten thousand Android Google Play apps - August 2018.
 - iOS Kaggle data-set of approximately seven thousand Apple Store apps - July 2017.
 
-#### Data questions/answers:
+---
+
+#### Data questions for `./profitableApps.ipynb`:
 - Cleaning incompatible and wrong data
 - Removing duplicate entries
 - Removing Non-English Apps
 - Isolating Free and English Apps
 - Most Common Apps by Genre
 - Most Popular Apps by Genre on the App Store
+
+---
+
+#### Data questions for `./profitableAppsVisualization.ipynb`:
+- How do you visualize price distribution of paid apps?
+- How does the price distribution get affected by category?
+- What about paid apps vs free apps?
+- Are paid apps good enough?
+- As the size of the app increases do they get pricier?
+- How are the apps distributed category wise? can we split by paid category?
