@@ -1,3 +1,9 @@
+
+<p align="center">
+    <img src="mobileapps.jpg.jpg" alt="logo" width="600" height="500"/>
+</p>
+
+
 # Profitable App Analysis
 
 `profitableApps.ipynb`: 
