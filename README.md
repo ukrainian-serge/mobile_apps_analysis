@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="mobileapps.jpg" alt="logo" width="600" height="500"/>
+    <img src="mobileapps.jpg" alt="logo" width="700" height="500"/>
 </p>
 
 
